@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @CharbelDaher34
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning ML and DL courses on coursera and engineering in the Lebanese university
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Charbel Daher on LinkedIn or charbeldaher34@gmail.com
+Hi👋
+My name is Charbel Daher, i am currently a 3rd year electrical engineer student at the Lebanese University branch2 Roumieh.
+I am intereted in Artificial Intelligence and coding, which i will fully go for it after finishing my major
+You can contact me on my email charbeldaher34@gmail.com or on my LinkedIn: https://www.linkedin.com/in/charbeldaher34
 
 <!---
 CharbelDaher34/CharbelDaher34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
